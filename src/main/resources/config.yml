@@ -1,0 +1,5 @@
+# Disguise Plugin Configuration
+# 이 파일은 플러그인에 의해 자동으로 관리됩니다.
+
+# disguises 섹션에는 플레이어의 UUID와 닉네임이 저장됩니다.
+disguises:
